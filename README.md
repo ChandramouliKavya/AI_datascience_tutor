@@ -17,7 +17,7 @@ A Conversational AI Data Science Tutor which is tasked to resolve only the data 
 - Personalized learning paths
 
 
-### Check out here  --->https://huggingface.co/spaces/kavyasri0821/AI_Converstational_Data_Science_Tutor
+### Check out here  --->  https://huggingface.co/spaces/kavyasri0821/AI_Converstational_Data_Science_Tutor
 
 ## 🤝 Contributing
 Feel free to fork the repository and create pull requests for improvements.
